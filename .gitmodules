@@ -1,0 +1,6 @@
+[submodule "ITG.Translit"]
+	path = ITG.Translit
+	url = https://github.com/sergey-s-betke/ITG.Translit.git
+[submodule "ITG.Yandex.PDD"]
+	path = ITG.Yandex.PDD
+	url = https://github.com/sergey-s-betke/ITG.Yandex.PDD.git
