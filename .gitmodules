@@ -4,3 +4,6 @@
 [submodule "ITG.Yandex.PDD"]
 	path = ITG.Yandex.PDD
 	url = git@github.com:sergey-s-betke/ITG.Yandex.PDD.git
+[submodule "ITG.Outlook"]
+	path = ITG.Outlook
+	url = git@github.com:sergey-s-betke/ITG.Outlook.git
