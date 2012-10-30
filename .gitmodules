@@ -7,3 +7,6 @@
 [submodule "ITG.Outlook"]
 	path = ITG.Outlook
 	url = git@github.com:sergey-s-betke/ITG.Outlook.git
+[submodule "ITG.SkyDrive"]
+	path = ITG.SkyDrive
+	url = git@github.com:sergey-s-betke/ITG.SkyDrive.git
